@@ -1,1 +1,25 @@
-
+body {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+      background-color: #f4f4f4;
+      text-align: center;
+    }
+    input, button {
+      padding: 10px;
+      font-size: 1rem;
+      margin: 10px;
+    }
+    #creature-container {
+      margin-top: 20px;
+      background: white;
+      padding: 20px;
+      display: inline-block;
+      border-radius: 10px;
+    }
+    #types span {
+      padding: 5px 10px;
+      margin: 5px;
+      border-radius: 5px;
+      background-color: #ddd;
+      display: inline-block;
+    }
